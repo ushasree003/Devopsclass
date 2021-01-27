@@ -2,6 +2,9 @@
 
 # This repo is used for installing httpd
 
+
 # allowing linux instance to push the code to remote repo without password for every push
 
-#This is to show merge conflict linux user
+
+#This is to show how merge conflict works. job done win and linux user
+
